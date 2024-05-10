@@ -1,0 +1,515 @@
+Python
+Java
+JavaScript
+C++
+C#
+Ruby
+PHP
+Swift
+Kotlin
+Objective-C
+R
+R-programming
+Scala
+Go
+Perl
+Rust
+Haskell
+TypeScript
+Shell Scripting
+HTML
+CSS
+SQL
+NoSQL
+XML
+JSON
+AJAX
+GraphQL
+React
+Angular
+Vue.js
+Node.js
+Express.js
+Django
+Flask
+Spring
+ASP.NET
+Ruby on Rails
+Laravel
+Symfony
+Meteor.js
+Ember.js
+Backbone.js
+jQuery
+Bootstrap
+Tailwind CSS
+Sass
+LESS
+React Native
+Flutter
+Ionic
+Xamarin
+SwiftUI
+JavaFX
+PhoneGap
+Apache Cordova
+Unity
+Unreal Engine
+Cocos2d
+SFML
+Godot Engine
+Phaser
+Construct
+Electron
+PyQt
+Tkinter
+WinForms
+WPF
+GTK+
+Qt
+Avalonia
+TensorFlow
+PyTorch
+Keras
+Scikit-learn
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Plotly
+NLTK
+Spacy
+Scrapy
+Beautiful Soup
+Jupyter Notebook
+MySQL
+PostgreSQL
+SQLite
+MongoDB
+Microsoft SQL Server
+Oracle
+Redis
+Cassandra
+Amazon RDS
+Amazon DynamoDB
+Google Cloud SQL
+Firebase Realtime Database
+Firebase Firestore
+Amazon Web Services (AWS)
+Microsoft Azure
+Google Cloud Platform (GCP)
+IBM Cloud
+Oracle Cloud
+Salesforce
+Alibaba Cloud
+DigitalOcean
+Heroku
+Firebase
+Docker
+Kubernetes
+Docker Swarm
+OpenShift
+Rancher
+Nomad
+Mesos
+Jenkins
+Travis CI
+CircleCI
+GitLab CI/CD
+GitHub Actions
+Bitbucket Pipelines
+Ansible
+Terraform
+Chef
+Puppet
+SaltStack
+Vagrant
+Nagios
+Prometheus
+Grafana
+ELK Stack
+Splunk
+Datadog
+New Relic
+Cybersecurity
+Penetration Testing
+Vulnerability Assessment
+Incident Response
+Threat Detection
+Security Operations
+Identity and Access Management (IAM)
+Security Information and Event Management (SIEM)
+Encryption
+Firewalls
+Secure Sockets Layer (SSL)
+Transport Layer Security (TLS)
+Multi-Factor Authentication (MFA)
+Public Key Infrastructure (PKI)
+Security Compliance
+Risk Management
+Ethical Hacking
+Bug Bounty Programs
+Agile
+Scrum
+Kanban
+Lean
+Extreme Programming (XP)
+Sprint Planning
+Daily Standups
+Backlog Grooming
+Sprint Review
+Retrospective
+Product Owner
+Scrum Master
+Test Automation
+Selenium
+JUnit
+Pytest
+Cypress
+Robot Framework
+JIRA
+TestRail
+Load Testing
+Performance Testing
+Security Testing
+Integration Testing
+Regression Testing
+User Acceptance Testing (UAT)
+Test Driven Development (TDD)
+Behavior Driven Development (BDD)
+Git
+GitHub
+GitLab
+Bitbucket
+Subversion (SVN)
+Mercurial
+Perforce
+TCP/IP
+HTTP
+HTTPS
+FTP
+SMTP
+DNS
+DHCP
+SSH
+SSL/TLS
+IPv4
+IPv6
+Linux
+Windows
+macOS
+Unix
+Android
+iOS
+Waterfall
+Spiral
+Iterative
+Incremental
+RAD (Rapid Application Development)
+DevOps
+Continuous Integration (CI)
+Continuous Deployment (CD)
+Microservices Architecture
+Service-Oriented Architecture (SOA)
+Serverless Computing
+Event-Driven Architecture
+Monolithic Architecture
+RESTful Architecture
+API-First Design
+Apache HTTP Server
+Nginx
+Microsoft IIS
+AWS Elastic Beanstalk
+Google App Engine
+Microsoft Azure App Service
+Heroku
+DigitalOcean Droplets
+VPS (Virtual Private Server)
+Artificial Intelligence (AI)
+Augmented Reality (AR)
+Virtual Reality (VR)
+Blockchain
+Cryptocurrency
+Quantum Computing
+Internet of Things (IoT)
+Big Data
+Data Analytics
+Data Visualization
+Micro Frontends
+Micro Backends
+Micro UI
+Microservices Governance
+Microservices Design
+Continuous Integration/Continuous Deployment (CI/CD)
+Infrastructure as Code (IaC)
+GitOps
+Site Reliability Engineering (SRE)
+Chaos Engineering
+Blue-Green Deployment
+Canary Deployment
+Feature Flags
+Monitoring and Observability
+Tracing
+Logging
+Alerting
+Distributed Tracing
+Service Mesh
+API Gateway
+CDN (Content Delivery Network)
+Reverse Proxy
+Load Balancer
+Firewall
+Intrusion Detection System (IDS)
+Intrusion Prevention System (IPS)
+Web Application Firewall (WAF)
+Honeypot
+Serverless Architecture
+GraphQL
+RESTful APIs
+SOAP
+API Design
+API Management
+OAuth
+OpenID Connect
+JSON Web Tokens (JWT)
+OAuth 2.0
+OAuth 1.0a
+OAuth 2.0 Flows (Authorization Code, Implicit, Client Credentials, Resource Owner Password Credentials)
+Single Sign-On (SSO)
+Federated Identity
+Authentication
+Authorization
+Identity Access Management (IAM)
+OAuth2
+OpenID Connect
+JSON Web Tokens (JWT)
+Docker Swarm
+OpenShift
+Rancher
+Nomad
+Docker Compose
+Container Orchestration
+Containerization
+Container Registry
+Container Security
+Kubernetes Operators
+Istio
+Service Mesh
+API Gateway
+Envoy Proxy
+Edge Computing
+Azure Functions
+AWS Lambda
+Google Cloud Functions
+Function as a Service (FaaS)
+Backend as a Service (BaaS)
+Infrastructure as Code (IaC)
+Configuration Management
+Terraform
+Ansible
+Chef
+Puppet
+SaltStack
+Nagios
+Zabbix
+Prometheus
+Grafana
+ELK Stack (Elasticsearch, Logstash, Kibana)
+Splunk
+Datadog
+New Relic
+Observability
+Application Performance Monitoring (APM)
+Infrastructure Monitoring
+Log Management
+Security Information and Event Management (SIEM)
+Incident Response
+Security Operations
+Penetration Testing
+Vulnerability Assessment
+Security Auditing
+Security Compliance
+GDPR (General Data Protection Regulation)
+HIPAA (Health Insurance Portability and Accountability Act)
+PCI DSS (Payment Card Industry Data Security Standard)
+ISO 27001
+NIST Cybersecurity Framework
+OWASP Top 10
+Secure Coding Practices
+Security Best Practices
+Zero Trust Security Model
+Network Security
+Endpoint Security
+Cloud Security
+Identity and Access Management (IAM)
+Encryption
+Public Key Infrastructure (PKI)
+Digital Certificates
+Key Management
+Data Loss Prevention (DLP)
+Data Encryption
+SSL/TLS
+HTTPS
+SSH
+Multi-Factor Authentication (MFA)
+Single Sign-On (SSO)
+Identity Federation
+Directory Services (LDAP, Active Directory)
+Firewalls (Network, Web Application)
+Intrusion Detection System (IDS)
+Intrusion Prevention System (IPS)
+Security Incident and Event Management (SIEM)
+Security Orchestration, Automation, and Response (SOAR)
+Threat Intelligence
+Cyber Threat Hunting
+Cyber Threat Intelligence (CTI)
+Security Awareness Training
+Incident Response Planning
+Business Continuity Planning (BCP)
+Disaster Recovery Planning (DRP)
+Risk Management
+Cybersecurity Frameworks (NIST CSF, ISO/IEC 27001, CIS Controls)
+Security Standards (PCI DSS, HIPAA, GDPR)
+Privacy Regulations (GDPR, CCPA, LGPD)
+Industry-Specific Regulations (FINRA, FISMA, HIPAA)
+Data Privacy Laws
+Intellectual Property Protection
+Digital Forensics
+Reverse Engineering
+Ethical Hacking
+Bug Bounty Programs
+Groovy
+Clojure
+Lua
+Assembly Language
+VHDL
+Verilog
+Scheme
+COBOL
+Fortran
+ABAP
+PL/SQL
+Visual Basic .NET
+Apex
+MATLAB
+Delphi
+PowerShell
+Bash
+AWK
+OCaml
+Prolog
+SAS
+Julia
+Alice
+Scratch
+Snap!
+Blockly
+BlocklyProp
+VBA (Visual Basic for Applications)
+OPL (Optimization Programming Language)
+ZPL (Zebra Programming Language)
+QML (Qt Modeling Language)
+IDL (Interface Definition Language)
+OData
+MQL4 (MetaQuotes Language 4)
+MQL5 (MetaQuotes Language 5)
+PLC (Programmable Logic Controller) Programming
+Tcl (Tool Command Language)
+KornShell (ksh)
+C Shell (csh)
+T-SQL (Transact-SQL)
+PL/pgSQL (Procedural Language/PostgreSQL)
+PSQL (PostgreSQL interactive terminal)
+ABAP (Advanced Business Application Programming)
+OpenCL
+CUDA
+HLSL (High-Level Shading Language)
+GLSL (OpenGL Shading Language)
+M (MUMPS)
+MUMPS (Massachusetts General Hospital Utility Multi-Programming System)
+OpenEdge ABL
+WebAssembly (Wasm)
+PureScript
+Elm
+Agda
+ATS (Applied Type System)
+Dart
+Red
+F#
+Erlang
+Elixir
+Racket
+Crystal
+Pascal
+POP-11
+PostScript
+PowerBuilder
+Processing
+Q (equational programming language)
+RAPID
+RPG
+RSL (RenderMan Shading Language)
+Sather
+Sawzall
+SISAL
+SMALL
+Snowball
+Solidity
+SOPHAEROS
+Source
+SPARK
+Speakeasy
+Speedcode
+SPIN
+SP/k
+SPS
+Squirrel
+Squeak
+S/SL
+Starlogo
+Strand
+Subtext
+SuperCollider
+SystemVerilog
+TACL
+TACPOL
+TADS
+TAL
+TECO
+TeX
+TIE
+TMG
+Tom
+Trac
+TTM
+TUTOR
+TXL
+Ubercode
+UCSD Pascal
+Unicon
+Uniface
+UNITY
+Vala
+Visual DataFlex
+Visual DialogScript
+Visual FoxPro
+Visual J++
+Visual Objects
+Visual Prolog
+WebDNA
+Wolfram Language
+Wyvern
+X10
+XBL
+XBase++
+Xojo
+XOTcl
+XPL
+XPL0
+Yorick
+YQL
+Yoix
+Z notation
+Zebra, ZPL, ZPL2, ZPL II
+ZOPL
+Zsh
