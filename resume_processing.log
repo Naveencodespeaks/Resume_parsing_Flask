@@ -1,0 +1,7 @@
+2024-05-15 11:25:35,674 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-05-15 11:25:35,674 - INFO - [33mPress CTRL+C to quit[0m
+2024-05-15 11:25:35,677 - INFO -  * Restarting with watchdog (inotify)
+2024-05-15 11:25:37,240 - WARNING -  * Debugger is active!
+2024-05-15 11:25:37,240 - INFO -  * Debugger PIN: 100-319-770
+2024-05-15 11:25:56,627 - INFO - 127.0.0.1 - - [15/May/2024 11:25:56] "POST /resume HTTP/1.1" 200 -
